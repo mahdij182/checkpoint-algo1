@@ -1,0 +1,19 @@
+Algorithm exercise
+var
+nbrchr: integer:=0
+nbrw: integer:=0
+nbrv: integer:=0
+character: char:=' '
+begin
+while(char<>'.')do
+read (char)
+nbrchr:=nbrchr+1
+if (char=='a'or char=='e'or char=='o'or char=='u'or char=='i'or char=='y')
+then nbrv:=nbrv+1
+d if 
+if (char==' ')
+then nbrw:=nbrw+1
+
+end if 
+end while
+
